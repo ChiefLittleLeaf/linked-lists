@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "lists"
+name = "linked-lists"
 version = "0.1.0"

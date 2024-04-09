@@ -6,3 +6,5 @@ pub mod second;
 pub mod third;
 // NOTE: fourth bad doubly linked list
 pub mod fourth;
+// NOTE: Ok unsafe singly linked list
+pub mod fifth;

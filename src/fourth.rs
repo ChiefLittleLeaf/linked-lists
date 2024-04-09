@@ -1,4 +1,4 @@
-// Bad but safe implementation of a doubly linked list
+// Bad but safe implementation of a doubly linked dequeue
 
 use std::cell::{Ref, RefCell, RefMut};
 use std::rc::Rc;

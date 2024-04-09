@@ -1,4 +1,5 @@
 //NOTE: Persistent stack
+
 use std::rc::Rc;
 
 pub struct List<T> {

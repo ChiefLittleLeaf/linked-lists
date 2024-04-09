@@ -1,3 +1,5 @@
+// NOTE: Bad singly linked stack
+
 use std::mem;
 
 pub struct List {
